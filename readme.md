@@ -18,3 +18,4 @@ docker container exec -it postgresdb bash
 ```
 psql -U postgres --file expensetracker_db.sql
 ```
++ For testing API use postman and import postman_collection.json file
